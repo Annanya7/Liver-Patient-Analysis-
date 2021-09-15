@@ -19,3 +19,6 @@ Total Protiens
 Albumin
 Albumin and Globulin Ratio
 Dataset: field used to split the data into two sets (patient with liver disease, or no disease)
+
+# Prediction 
+Done by using KNN, SVM and Random Forest 
